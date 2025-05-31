@@ -30,3 +30,12 @@ h1{
 .Buttons:hover{
     background-color: hsl(214, 82%, 61%);
 }
+
+main{
+    margin: 0 auto;
+    border: 2px solid #000;
+    padding: 40px;
+    margin-top: 200px;
+    max-width: 500px;
+}
+
