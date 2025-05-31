@@ -1,0 +1,32 @@
+h1{
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    
+    justify-content: center;
+    
+}
+
+#BtnContainer{
+    text-align: center;
+}
+
+.Buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: #fff;
+    background-color: hsl(214, 100%, 74%);
+    border-radius: 5px;
+    border: 2px solid #000;
+    cursor: pointer;
+    transition: baclground-color 0.2s;
+}
+
+.Buttons:hover{
+    background-color: hsl(214, 82%, 61%);
+}
